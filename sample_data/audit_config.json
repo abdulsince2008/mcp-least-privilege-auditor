@@ -1,0 +1,6 @@
+{
+  "manifest_path": "./sample_data/manifest.json",
+  "usage_logs": ["./sample_data/usage.jsonl"],
+  "server_env": {},
+  "timeout": 30
+}
